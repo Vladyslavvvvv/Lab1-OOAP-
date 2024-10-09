@@ -9,7 +9,7 @@ namespace Lab1_OOAP_
     {
         // Список для зберігання всіх намальованих прямокутників до очищення
         private List<ImmutableRectangle> rectangles;
-
+        
         // Список для зберігання очищених прямокутників (для можливості повторного малювання)
         private List<ImmutableRectangle> clearedRectangles;
 
